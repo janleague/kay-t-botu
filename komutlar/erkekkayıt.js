@@ -42,8 +42,8 @@ exports.run = (client, message, args) => {
 
 **Rol Bilgileri Aşağıda Yazmakta.**
 
-• Alınan Rol: ${misafir}
-• Verilen Rol: ${kayıtlı}
+• Alınan Rol: ${narcosmisafir}
+• Verilen Rol: ${nkayıterkek}
 
 `)
     .setFooter('Narcos Erkek Kayıt Sistemi')
